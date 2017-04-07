@@ -23,5 +23,8 @@
   "homepage": "https://github.com/sitianming/yixin-eslint#readme",
   "devDependencies": {
     "request": "^2.81.0"
-  }
+    },
+    "bin":{
+        "yixin-eslint":"lib/main.js"
+    }
 }
