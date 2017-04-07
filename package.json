@@ -1,0 +1,27 @@
+{
+  "name": "yixin-eslint",
+  "version": "1.0.0",
+  "description": "用于更新公司内部使用的eslint配置文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitianming/yixin-eslint.git"
+  },
+  "keywords": [
+    "eslint",
+    "customize",
+    "update"
+  ],
+  "author": "sitianming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sitianming/yixin-eslint/issues"
+  },
+  "homepage": "https://github.com/sitianming/yixin-eslint#readme",
+  "devDependencies": {
+    "request": "^2.81.0"
+  }
+}
